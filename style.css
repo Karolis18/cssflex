@@ -1,0 +1,13 @@
+body{
+	font-family: 'Grandstander', cursive;
+}
+.container{
+	display: flex;
+	border: 5px;
+	text-align: left;
+}
+	
+div{
+	border: 5px;
+	text-align: left;
+}
